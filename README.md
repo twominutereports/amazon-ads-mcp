@@ -17,7 +17,7 @@ Managing Sponsored Products, Sponsored Brands, and Sponsored Display campaigns a
 
 ## 🎬 See It in Action
 
-https://github.com/user-attachments/assets/47a81857-cfff-45c2-8886-69ca2aa17fd8
+https://github.com/user-attachments/assets/096063ba-60b4-45cd-af8f-02bbf36c5704
 
 > 🎥 _Can't see the video? [Watch on YouTube →](https://www.youtube.com/@TwoMinuteReports)_
 
