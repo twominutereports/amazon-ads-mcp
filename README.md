@@ -17,7 +17,7 @@ Managing Sponsored Products, Sponsored Brands, and Sponsored Display campaigns a
 
 ## 🎬 See It in Action
 
-<!-- Replace VIDEO_URL_HERE with your GitHub-hosted .mp4 URL (see main README for instructions) -->
+https://github.com/user-attachments/assets/cce78504-abce-40d1-b596-a5492c2a7510
 
 > 🎥 _Can't see the video? [Watch on YouTube →](https://www.youtube.com/@TwoMinuteReports)_
 
